@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=32&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Jay+Dhakad+%E2%80%94+Portfolio;Full-Stack+%C3%97+Cybersecurity;I+Build+Things+That+Work." alt="Typing SVG" />
@@ -147,3 +148,6 @@ Made with 💙 by Jay Dhakad
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jay--dhakad-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jay-dhakad-aaa59628a/)
 
 </div>
+=======
+# personal_portfolio
+>>>>>>> 6f9df812687d01eb2b044f6d1b7dfe98fb000575

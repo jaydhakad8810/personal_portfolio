@@ -80,7 +80,7 @@ export default function AboutSection() {
                   className={`relative h-20 flex-1 rounded-xl overflow-hidden transition-all duration-200 ${
                     activePhoto === i ? 'ring-2' : 'opacity-50 hover:opacity-75'
                   }`}
-                  style={{ ringColor: '#06b6d4', outline: activePhoto === i ? '2px solid #06b6d4' : 'none' }}
+                  style={{ outline: activePhoto === i ? '2px solid #06b6d4' : 'none' }}
                 >
                   <Image src={p.src} alt={p.label} fill style={{ objectFit: 'cover', objectPosition: 'top' }} />
                 </button>
